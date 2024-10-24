@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center" height="40px">
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtB4YWqn2-HvaP2KnzRikHq7bIXUrFmI9_eg&s" width="100%">
 </div>
 <div> 
