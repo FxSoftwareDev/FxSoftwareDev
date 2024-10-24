@@ -1,11 +1,11 @@
-<div align="center">
- <img class="art-template-image" src="https://d1csarkz8obe9u.cloudfront.net/posterpreviews/the-matrix-background-design-template-cea07eda8fcc91d950fafec04e46d21b_screen.jpg?ts=1600987864" alt="The Matrix background Apresentação (16:9) template" width="100%" height="128">
+<div align="center" >
+ <img class="art-template-image" src="https://d1csarkz8obe9u.cloudfront.net/posterpreviews/the-matrix-background-design-template-cea07eda8fcc91d950fafec04e46d21b_screen.jpg?ts=1600987864" alt="The Matrix background Apresentação (16:9) template" width="100%" height="128" style="border-radius: 20%> 
+</div> 
+
+<div align="center"> <br><br>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=25&duration=2000&pause=1000&color=2EC034&background=FFFFFF00&center=true&width=435&lines=Welcome+to+FxSoftwareDev+Github" alt="Typing SVG" /></a>
 </div>
 
-<div align="center"> 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=25&duration=2000&pause=1000&color=279E90&background=FFFFFF00&width=435&lines=Welcome+to+FxSoftwareDev+Github" alt="Typing SVG" /></a>
-</div>
-##
 
 <!--
 **FxSoftwareDev/FxSoftwareDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
