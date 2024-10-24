@@ -1,7 +1,8 @@
-<div align="center" height="30%">
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtB4YWqn2-HvaP2KnzRikHq7bIXUrFmI9_eg&s" width="100%">
+<div align="center">
+ <img class="art-template-image" src="https://d1csarkz8obe9u.cloudfront.net/posterpreviews/the-matrix-background-design-template-cea07eda8fcc91d950fafec04e46d21b_screen.jpg?ts=1600987864" alt="The Matrix background Apresentação (16:9) template" width="100%" height="128">
 </div>
-<div> 
+
+<div align="center"> 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=25&duration=2000&pause=1000&color=279E90&background=FFFFFF00&width=435&lines=Welcome+to+FxSoftwareDev+Github" alt="Typing SVG" /></a>
 </div>
 ##
